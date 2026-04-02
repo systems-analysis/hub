@@ -1,1 +1,1 @@
-systems-analysis.github.io
+hub.systems-analysis.ru
